@@ -21,4 +21,6 @@
     <string name="ask_scan_title">Scan for new media?</string>
     <string name="ask_scan_text">Click to manually trigger media scan</string>
 
+    <string name="notification_media_scanner_name">Media Scanner</string>
+
 </resources>
