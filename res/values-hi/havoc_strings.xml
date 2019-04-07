@@ -17,6 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Ask to scan on boot -->
-    <string name="ask_scan_title">Сканирование для новых медиа файлов?</string>
-    <string name="ask_scan_text">Нажмите, чтобы вручную просканировать медиафайлы на устройстве</string>
+    <string name="ask_scan_title">नई मीडिया खोजें?</string>
+    <string name="ask_scan_text">मीडिया स्कैन को मैंयुअल रूप से चालू करने के लिए क्लिक करें</string>
 </resources>
